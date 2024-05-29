@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Video_Player_App</string>
+    <string name="textview">TextView</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="folders">Folders</string>
+    <string name="Folders">Folders</string>
+    <string name="Files">Files</string>
+    <string name="filename">FileName</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
